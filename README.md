@@ -1,5 +1,10 @@
 # maryland_hunting_spots
 
+## Central Region Permit Links
+- [Application](https://webapps02.dnr.state.md.us/DNRHarmApp/Request.aspx?ParserValue=Gwynnbrook)
+- [View Available Reservations](https://dnr.maryland.gov/wildlife/Pages/publiclands/wmacentral_calendar.aspx)
+- [View Your Reservations](https://webapps02.dnr.state.md.us/DNRHarmApp/ViewReservations.aspx?ParserValue=Gwynnbrook)
+
 ## Archery Only
 - [Flag Ponds Park CWMA](https://www.calvertparks.org/hunting.html)
 - [Liberty Reservoir](https://dnr.maryland.gov/wildlife/Pages/publiclands/central/liberty.aspx)
