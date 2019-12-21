@@ -6,6 +6,7 @@
 - [View Your Reservations](https://webapps02.dnr.state.md.us/DNRHarmApp/ViewReservations.aspx?ParserValue=Gwynnbrook)
 
 ## Archery Only
+- 1.5hrs [Fair Hill NRMA](https://dnr.maryland.gov/publiclands/Pages/central/FairHill/Hunting.aspx)
 - [Flag Ponds Park CWMA](https://www.calvertparks.org/hunting.html)
 - [Liberty Reservoir](https://dnr.maryland.gov/wildlife/Pages/publiclands/central/liberty.aspx)
 - [North Point State Park](https://dnr.maryland.gov/publiclands/Pages/central/NorthPoint/Hunting.aspx)
