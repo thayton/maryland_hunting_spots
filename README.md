@@ -7,6 +7,9 @@
 - [Ridenour Swamp WMA](https://dnr.maryland.gov/wildlife/Pages/publiclands/western/ridenourswamp.aspx)
 - [Gravel Hill Swamp WMA](https://dnr.maryland.gov/wildlife/Pages/publiclands/western/gravelhillswamp.aspx)
 
+## Archery & Muzzleloader Only
+- 45m [Morgan Run NEA](https://dnr.maryland.gov/publiclands/Pages/central/morganrun.aspx)
+
 ## All weapons
 - [Maring CWMA](https://dnr.maryland.gov/wildlife/Pages/publiclands/central/maring.aspx)
 - [Linkwood WMA](https://dnr.maryland.gov/wildlife/Pages/publiclands/eastern/linkwood.aspx) For whitetail
