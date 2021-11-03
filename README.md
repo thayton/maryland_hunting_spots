@@ -1,5 +1,8 @@
 # maryland_hunting_spots
 
+## Sika
+- [Guinea Island](https://dnr.maryland.gov/wildlife/Pages/publiclands/eastern/fishingbay.aspx) from Bestpitch boat ramp - https://dnr.maryland.gov/wildlife/Documents/Fishing-Bay-WMA-maps.pdf
+
 ## Central Region Permit Links
 - [Application](https://webapps02.dnr.state.md.us/DNRHarmApp/Request.aspx?ParserValue=Gwynnbrook)
 - [View Available Reservations](https://dnr.maryland.gov/wildlife/Pages/publiclands/wmacentral_calendar.aspx)
